@@ -1,6 +1,4 @@
-### Hi there! 👋
-
-Here are some ideas to get you started:
+### Hi there! My name is Drew! 👋
 
 - 🔭 I am currently working on, predominately, progressing my skills as a Data Engineer with a Python focus and using a variety of data engineering tools. I also enjoy studying other elements of software developement in addition to my main focus of data engineeing to assist in gaining a deeper understanding of the industry as a whole!
 - 📫 Feel free to reach me at: [d.white0002@gmail.com](mailto:d.white0002@gmail.com)
