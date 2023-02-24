@@ -30,7 +30,7 @@
 ![Github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
-## Projects
+## Projects:
 
 <table>
 <tr>
