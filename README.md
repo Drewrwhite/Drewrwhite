@@ -9,7 +9,7 @@
 
 ## Technologies:
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -22,8 +22,7 @@
 ![dbt](https://img.shields.io/badge/dbt-orange?style=flat&logo=dbt&logoColor=white)&nbsp; 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-yellow?style=flat&logo=apachespark&logoColor=white)&nbsp; 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-green?style=flat&logo=apacheairflow&logoColor=white)&nbsp; 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=flat&logo=googlecloud&logoColor=white)&nbsp;
-![BigQuery](https://img.shields.io/badge/BigQuery-blue?style=flat&logo=bigquery&logoColor=white)&nbsp; 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?style=flat&logo=googlecloud&logoColor=white)&nbsp;
 ![Looker](https://img.shields.io/badge/Looker-purple?style=flat&logo=looker&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white)&nbsp;
@@ -35,12 +34,12 @@
 [Weather Database](#weather-database) | [Los Angeles Crime Analysis](#los-angeles-crime-analysis) | [Quality of Life](#quality-of-life) | [Dice Roller](#dice-roller) | [Airline ETL](#airline-etl)
 
 ## [_Weather Database_](https://github.com/Drewrwhite/weather_database)
-<a href="https://github.com/Drewrwhite/weather_database"><img src="dw_dashboard.png" height="400px" width="400px"></a>
+<a href="https://github.com/Drewrwhite/weather_database"><img src="dw_dashboard.png" height="400px" width="450px"></a>
 
 <p>A project that scrapes the National Weather Service website daily, makes data transformations, stores the data and creates a historical database over time.</p>
 
 ## [_Los Angeles Crime Analysis_](https://github.com/Drewrwhite/la_crime_analysis)
-<a href="https://github.com/Drewrwhite/la_crime_analysis"><img src="LA_Dashboard.png" height="400px" width="400px"></a>
+<a href="https://github.com/Drewrwhite/la_crime_analysis"><img src="LA_Dashboard.png" height="400px" width="500px"></a>
 
 - A project that processes major city crime data in the United States and generates visualizations through charts and maps.
 
