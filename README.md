@@ -42,26 +42,26 @@
 ## [_Los Angeles Crime Analysis_](https://github.com/Drewrwhite/la_crime_analysis)
 <a href="https://github.com/Drewrwhite/la_crime_analysis"><img src="LA_Dashboard.png" height="400px" width="400px"></a>
 
-<p>A project that processes major city crime data in the United States and generates visualizations through charts and maps.</p>
+- A project that processes major city crime data in the United States and generates visualizations through charts and maps.
 
 ## [_Quality of Life_](https://github.com/Drewrwhite/quality_of_life)
 <a href="https://github.com/Drewrwhite/quality_of_life">
 <img src="happiness_geo_heat.png" height="400px" width="500px"></a>
 
-<p>A project that analyzes global quality of life data and generates visualizations through charts and maps.</p>
+- A project that analyzes global quality of life data and generates visualizations through charts and maps.
 
 ## [_Dice Roller_](https://github.com/Drewrwhite/roll_dice)
 <a href="https://github.com/Drewrwhite/roll_dice">
 <img src="dice.jpg" height="400px" width="400px"></a>
 
-<p>A fun Python dice roller application that uses ASCII diagrams for visualizations. Deployed to web for user interactivity with Flask.
-</p>
+- A fun Python dice roller application that uses ASCII diagrams for visualizations. Deployed to web for user interactivity with Flask.
+
 
 ## [_Airline ETL_](https://github.com/Drewrwhite/data_week_8)
 <a href="https://github.com/Drewrwhite/data_week_8">
 <img src="airplane.jpg" height="400px" width="400px"></a>
 
-<p>A Project demonstrating the use of data modeling prior to processing data with ETL pipeline.<p>
+- A Project demonstrating the use of data modeling prior to processing data with ETL pipeline.
 
 
 
