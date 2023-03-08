@@ -36,12 +36,12 @@
 ## [_Musical Journeys_](https://github.com/Drewrwhite/musical_journeys)
 <a href="https://github.com/Drewrwhite/musical_journeys"><img src="musical_journeys.png" height=40% width=40%></a>
 
-<p>Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.</p>
+ - Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.
 
 ## [_Weather Database_](https://github.com/Drewrwhite/weather_database)
 <a href="https://github.com/Drewrwhite/weather_database"><img src="dw_dashboard.png" height=30% width=30%></a>
 
-<p>A project that scrapes the National Weather Service website daily, makes data transformations, stores the data and creates a historical database over time.</p>
+- A project that scrapes the National Weather Service website daily, makes data transformations, stores the data and creates a historical database over time.
 
 ## [_Los Angeles Crime Analysis_](https://github.com/Drewrwhite/la_crime_analysis)
 <a href="https://github.com/Drewrwhite/la_crime_analysis"><img src="LA_Dashboard.png" height=40% width=40%></a>
