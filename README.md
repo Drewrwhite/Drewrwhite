@@ -34,7 +34,9 @@
 [Musical Journeys](#musical-journeys) | [Weather Database](#weather-database) | [Los Angeles Crime Analysis](#los-angeles-crime-analysis) | [Quality of Life](#quality-of-life) | [Dice Roller](#dice-roller) | [Airline ETL](#airline-etl)
 
 ## [_Musical Journeys_](https://github.com/Drewrwhite/musical_journeys)
-<a href="https://github.com/Drewrwhite/musical_journeys"><img src="musical_journeys.png" height=30% width=30%></a>
+<a href="https://github.com/Drewrwhite/musical_journeys"><img src="musical_journeys.png" height=40% width=40%></a>
+
+<p>Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.</p>
 
 ## [_Weather Database_](https://github.com/Drewrwhite/weather_database)
 <a href="https://github.com/Drewrwhite/weather_database"><img src="dw_dashboard.png" height=30% width=30%></a>
