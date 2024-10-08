@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Drew&nbsp;&nbsp;White&fontSize=80&fontAlignY=30&desc=Data&nbsp;Engineer&descAlign=35&animation=fadeIn&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Drew&nbsp;&nbsp;White&fontSize=80&fontAlignY=30&desc=Data&nbsp;Engineer&descAlign=35&animation=fadeIn&theme=cobalt)
 ## Hi there! My name is Drew! 👋
 
 - 🔭 I'm a Data Engineer with experience in various technologies and a diverse career background. I love to learn and I'm always exploring new areas of the industry!
